@@ -1,0 +1,9 @@
+.top {
+    margin-left: 250px;
+    padding-left: 1em;
+    padding-top: 1em;
+    height: 30px;
+    border-bottom: 0.5px solid rgba(0, 0, 0, .0975);
+    background: #fafafa;
+    color: #262626;
+}
